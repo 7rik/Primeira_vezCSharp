@@ -1,0 +1,15 @@
+C:\CSharp\Curso CSharp\Primerio\Primerio\bin\Debug\net6.0\Primerio.exe
+C:\CSharp\Curso CSharp\Primerio\Primerio\bin\Debug\net6.0\Primerio.deps.json
+C:\CSharp\Curso CSharp\Primerio\Primerio\bin\Debug\net6.0\Primerio.runtimeconfig.json
+C:\CSharp\Curso CSharp\Primerio\Primerio\bin\Debug\net6.0\Primerio.dll
+C:\CSharp\Curso CSharp\Primerio\Primerio\bin\Debug\net6.0\Primerio.pdb
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.csproj.AssemblyReference.cache
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.AssemblyInfoInputs.cache
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.AssemblyInfo.cs
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.csproj.CoreCompileInputs.cache
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.dll
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\refint\Primerio.dll
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.pdb
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\Primerio.genruntimeconfig.cache
+C:\CSharp\Curso CSharp\Primerio\Primerio\obj\Debug\net6.0\ref\Primerio.dll
